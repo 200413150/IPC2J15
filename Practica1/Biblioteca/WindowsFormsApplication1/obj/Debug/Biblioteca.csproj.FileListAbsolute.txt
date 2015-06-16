@@ -1,0 +1,12 @@
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.F1Bienvenido.resources
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.F2Carnet.resources
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.F3Autor.resources
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.F4Libro.resources
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Practica1\Biblioteca\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.F5Servicio.resources
