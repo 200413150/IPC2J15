@@ -1,0 +1,6 @@
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Fase2\SitioWeb\SitioWeb\bin\SitioWeb.dll.config
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Fase2\SitioWeb\SitioWeb\bin\SitioWeb.dll
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Fase2\SitioWeb\SitioWeb\bin\SitioWeb.pdb
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Fase2\SitioWeb\SitioWeb\obj\Debug\SitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Fase2\SitioWeb\SitioWeb\obj\Debug\SitioWeb.dll
+C:\Users\Lorente\Desktop\FIUSAC\IPC2J15\Fase2\SitioWeb\SitioWeb\obj\Debug\SitioWeb.pdb
